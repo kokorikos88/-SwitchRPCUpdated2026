@@ -6,18 +6,6 @@ The list of all supported titles is availible in the [supportlist.md](https://gi
 
 Entering a title that is not in the support list will still work, although the game's icon will not show up on Discord.
 
-### Building
-
-1. Clone this repository:   
-`git clone https://github.com/queenbiscuit311/SwitchRPCUpdated.git` 
-2. Enter the directory:   
-`cd SwitchRPCUpdated`
-5. Install dependencies (if using Windows, you may need to delete package-lock.json):   
-`npm install`
-6. Build:   
-`electron-builder`
-7. Done! Your compiled binaries will be in the `dist` folder.
-
 ## Credits
 
 Credits to:

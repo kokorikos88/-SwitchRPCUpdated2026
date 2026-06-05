@@ -6,6 +6,12 @@ The list of all supported titles is availible in the [supportlist.md](https://gi
 
 Entering a title that is not in the support list will still work, although the game's icon will not show up on Discord.
 
+### Screenshots:
+
+![image](https://github.com/user-attachments/assets/e1123f59-34e2-4bbe-9a07-54f260feb09d)
+
+![image](https://github.com/user-attachments/assets/4cc8ce2c-0b89-4c71-bdec-49d7c7341269)
+
 ## Credits
 
 Credits to:

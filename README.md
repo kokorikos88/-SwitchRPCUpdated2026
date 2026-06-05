@@ -2,7 +2,7 @@
 
 ### The simplest possible Nintendo Switch/Switch 2 Discord integration available.
 
-The list of all supported titles is availible in the [supportlist.md](https://github.com/queenbiscuit311/SwitchRPCUpdated/blob/master/supportlist.md) file.
+The list of all supported titles is availible in the [supportlist.md](https://github.com/kokorikos88/-SwitchRPCUpdated2026/blob/main/supportlist.md) file.
 
 Entering a title that is not in the support list will still work, although the game's icon will not show up on Discord.
 

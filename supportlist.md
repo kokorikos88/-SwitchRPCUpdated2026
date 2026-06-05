@@ -1,7 +1,9 @@
 This is the current supported title list, please let me know if you would like another title added:
 
 Animal Crossing: New Horizons
+
 Captain Toad: Treasure Tracker
+
 Crash Bandicoot N. Sane Trilogy
 Crash Bandicoot 4: It's About Time
 Disney Classic Games: Aladdin and The Lion King
